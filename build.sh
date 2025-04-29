@@ -1,3 +1,3 @@
 #!/bin/bash
-javac Addnumbers.java
-java Addnumbers
+javac AddNumbers.java
+java AddNumbers
